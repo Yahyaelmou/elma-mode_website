@@ -1,0 +1,75 @@
+
+ *{
+     margin: 0%;padding: 0%;
+}
+.t1{
+    color: rgb(255, 255, 255);float: left;font-size: 25px;margin-left: 20px;margin-top: 20px;
+}
+ul{
+    float: right;list-style: none;margin-right: 80px;
+}
+li{
+    float: left;padding: 20px;font-size: 20px; color: aliceblue;margin-top: 10px;
+}
+nav{
+    height: 70px;background-color: rgb(91, 18, 133);
+}
+a{
+    text-decoration: none;color: aliceblue;
+}
+.btn1{
+    background-color:rgb(91, 16, 134) ;border-radius: 12%;color: aliceblue;padding: 8px;
+    margin-top: 60px;
+}
+.content{
+    background-image: url("img2.jpg");height:400px;text-align: center;
+    background-attachment: fixed;
+}
+.d1{
+padding: 100px;
+}
+.h2{
+    color: rgb(255, 255, 255);font-size: 40px;
+}
+body{
+    background-color: rgb(255, 255, 255);display: block;
+}
+.t2{
+    text-align: center;color: rgb(255, 255, 255);font-style: normal;font-size: 40px;
+}
+.d2{
+    width: 80%;float: left;
+
+}
+.d2img{
+   float: left;margin-top: 55px;width: 33%;margin-left: 517px;width: 230px;margin-right: 517px;margin-bottom: 10px;
+}
+.img3{
+    height: 230px;
+}
+.t3{
+    text-align: center;font-size: 18px;color: rgb(91, 16, 134);font-style: normal;margin-bottom: 20px;
+}
+.btn2{
+    background-color:rgb(91, 16, 134) ;border-radius: 12%;color: aliceblue;padding: 8px;
+    margin-top: 8px; text-align: center;
+}
+.content2{
+    text-align: center; background-image: url("solde.jpg");height: 500px;
+}
+.clr{
+    background-color: rgb(91, 16, 134);
+}
+footer{
+    text-align: center;background-color:rgb(0, 0, 0); color: aliceblue;font-style: inherit;
+    height: 120px;
+}
+.f1{
+    float: left;margin-left: 180px;margin-top: 20px;
+}
+.f2{
+    float: left;margin-left: 223px;margin-top: 20px;
+}
+.f3{
+    float: left;margin-left: 180px;margin-top: 20px;
+}
